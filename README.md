@@ -1,12 +1,5 @@
 # Mastering the Basics of ROS2 with TurtleSim
 
-\<p align="center"\>
-\<img src="[https://img.shields.io/badge/ROS2-Humble-blue](https://www.google.com/search?q=https://img.shields.io/badge/ROS2-Humble-blue)" alt="ROS2 Humble"\>
-\<img src="[https://img.shields.io/badge/Platform-Ubuntu\_22.04-orange](https://www.google.com/search?q=https://img.shields.io/badge/Platform-Ubuntu_22.04-orange)" alt="Ubuntu 22.04"\>
-\<img src="[https://img.shields.io/badge/Language-Python-yellow](https://www.google.com/search?q=https://img.shields.io/badge/Language-Python-yellow)" alt="Python"\>
-\<img src="[https://img.shields.io/badge/License-Apache\_2.0-lightgrey](https://www.google.com/search?q=https://img.shields.io/badge/License-Apache_2.0-lightgrey)" alt="License"\>
-\</p\>
-
 Welcome, future robotics pioneer\! This repository contains all the code, resources, and project files for the **Mastering the Basics of ROS2 with TurtleSim** course. Our mission is to take you from an absolute beginner to a confident ROS2 developer, capable of building and understanding real-world robotic applications.
 
 We believe in learning by doing. Using the fun and intuitive TurtleSim simulator, you'll get hands-on experience with the fundamental concepts of ROS2 without the need for expensive hardware.
