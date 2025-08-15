@@ -1,4 +1,4 @@
-# Mastering the Basics of ROS2 with TurtleSim
+# Mastering the Basics of ROS2 with TurtleSim 🐢
 
 Welcome, future robotics pioneer\! This repository contains all the code, resources, and project files for the **Mastering the Basics of ROS2 with TurtleSim** course. Our mission is to take you from an absolute beginner to a confident ROS2 developer, capable of building and understanding real-world robotic applications.
 
