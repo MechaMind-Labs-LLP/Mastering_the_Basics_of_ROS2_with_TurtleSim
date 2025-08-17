@@ -1,9 +1,9 @@
-# 🐢 Mastering ROS 2 Basics with TurtleSim – Circle Drawing & More
+# 🐢 Mastering ROS 2 Basics with TurtleSim
 
 Welcome, future robotics pioneer! This repository combines two powerful resources:
 
 * **Drawing a Circle with ROS 2 and TurtleSim**
-* **Mastering the Basics of ROS 2 with TurtleSim**
+* **Mastering the Basics of ROS 2 with TurtleSim - 2 Capstone Projects**
 
 Our mission is to take you from an absolute beginner to a confident ROS 2 developer through **hands-on projects** using the fun and intuitive **TurtleSim** simulator. By the end, you’ll be able to build and understand real-world robotic applications.
 
