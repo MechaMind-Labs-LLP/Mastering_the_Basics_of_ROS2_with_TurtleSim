@@ -179,6 +179,11 @@ ros2 service call /spawn turtlesim/srv/Spawn "{x: 2.0, y: 8.0, name: 'turtle2'}"
 ```
 
 ---
+### ✅ 2. Install VSCode
+
+```bash
+sudo snap install code --classic
+```
 
 # 📂 Part 3: Project 1 – Draw a Circle in TurtleSim
 
