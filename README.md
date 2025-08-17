@@ -145,6 +145,12 @@ List services:
 ros2 service list
 ```
 
+Find service type:
+
+```bash
+ros2 service type /spawn
+```
+
 Show service structure:
 
 ```bash
