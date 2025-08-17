@@ -25,12 +25,12 @@ By the end of this guide, you’ll:
 
 ## 🚀 What You'll Learn
 
-✅ Think in ROS 2: Break robotics problems into **Nodes**, **Topics**, and **Services**
-✅ Speak Robot: Use **ROS 2 CLI** to inspect, debug, and interact with any system
-✅ Build Robot Brains: Write clean, efficient **ROS 2 Python nodes (rclpy)**
-✅ Create Custom Tools: Implement **custom Messages and Services**
-✅ Launch Complex Systems: Use **ROS 2 launch files**
-✅ Tackle Projects: Draw shapes, control multiple turtles, and complete a **capstone project**
+✔ Think in ROS 2 – Break robotics problems into Nodes, Topics, and Services
+✔ Speak Robot – Use ROS 2 CLI to inspect, debug, and interact with systems
+✔ Build Robot Brains – Write efficient ROS 2 nodes in Python (rclpy)
+✔ Create Custom Tools – Implement custom Messages and Services
+✔ Launch Complex Systems – Start multiple nodes using ROS 2 launch files
+✔ Tackle Real Projects – Draw shapes, control multiple turtles, and complete a capstone project
 
 ---
 
