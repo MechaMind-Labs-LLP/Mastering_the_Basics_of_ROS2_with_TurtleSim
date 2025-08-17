@@ -197,9 +197,9 @@ ros2 pkg create --build-type ament_python turtlesim_circle
 Create `circle_drawer.py`:
 
 ```bash
-mkdir -p turtlesim_circle/turtlesim_circle
-touch turtlesim_circle/turtlesim_circle/circle_drawer.py
-chmod +x turtlesim_circle/turtlesim_circle/circle_drawer.py
+mkdir -p turtle_script/turtle_script
+touch turtle_script/turtle_script/circle_drawer.py
+chmod +x turtle_script/turtle_script/circle_drawer.py
 ```
 
 Add code:
@@ -249,7 +249,7 @@ if __name__ == '__main__':
 
 ```python
 from setuptools import setup
-package_name = 'turtlesim_circle'
+package_name = 'turtle_script'
 setup(
     name=package_name,
     version='0.0.1',
@@ -262,7 +262,7 @@ setup(
     license='Apache License 2.0',
     entry_points={
         'console_scripts': [
-            'draw_circle = turtlesim_circle.circle_drawer:main',
+            'circle_drawer = turtle_script.circle_drawer:main',
         ],
     },
 )
@@ -289,7 +289,7 @@ ros2 run turtlesim turtlesim_node
 Terminal 2:
 
 ```bash
-ros2 run turtlesim_circle draw_circle
+ros2 run turtle_script circle_drawer
 ```
 
 The turtle will draw a circle 🐢.
