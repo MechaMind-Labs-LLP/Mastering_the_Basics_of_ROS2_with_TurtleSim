@@ -313,13 +313,12 @@ turtlesim_ws/
 ├── install/
 ├── log/
 ├── src/
-│   ├── turtlesim_circle/
+│   ├── turtle_script/ # Python nodes (circle, polygon, spawner)
 │   │   ├── package.xml
 │   │   ├── setup.py
-│   │   └── turtlesim_circle/
+│   │   └── turtle_script/
 │   │       └── circle_drawer.py
-│   ├── turtle_msgs/         # Custom messages & services
-│   ├── turtle_script/       # Python nodes (circle, polygon, spawner)
+│   ├── turtle_msgs/         # Custom messages & services     
 │   └── turtle_bringup/      # Launch files
 ```
 
@@ -332,6 +331,7 @@ turtlesim_ws/
 * **List topics**: `ros2 topic list`
 * **Echo topic**: `ros2 topic echo /turtle1/cmd_vel`
 * **Show interface**: `ros2 interface show geometry_msgs/msg/Twist`
+* **Visualization tool**: `rqt_graph`
 
 ---
 
