@@ -344,6 +344,14 @@ source ~/.bashrc
 
 ---
 
+# 🧩 ROS 2 Aliases
+alias cbs="colcon build --symlink-install"   # Build with symlink (for faster edits)
+alias cb="colcon build"                      # Standard colcon build
+alias sc="source ~/.bashrc"                  # Reload bash configuration
+
+
+---
+
 ## 🎯 Summary
 
 * **Beginner-friendly circle drawing node**
