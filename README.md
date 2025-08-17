@@ -5,10 +5,10 @@
 
 This repository is your **complete ROS 2 TurtleSim learning hub**, combining two powerful resources into one:
 
-✅ **Circle Drawing with TurtleSim – A beginner-friendly project to get started with ROS 2 nodes, topics, and publishing commands.**
 ✅ **Mastering ROS 2 Basics with TurtleSim – A full hands-on course featuring:**
 
 * Core ROS 2 concepts (**Nodes, Topics, Services, Messages, Parameters, RQT_Debugging**)
+* **Circle Drawing with TurtleSim – A beginner-friendly project to get started with ROS 2 nodes, topics, and publishing commands.**
 * **Polygon Drawer Project** (using launch files)
 * **Capstone Project: Catch ‘em All** – A multi-node system where turtles spawn and your main turtle hunts them down!
 
