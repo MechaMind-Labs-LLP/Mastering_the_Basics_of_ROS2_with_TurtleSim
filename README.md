@@ -380,3 +380,12 @@ alias sc="source ~/.bashrc"                  # Reload bash configuration
 * **Core ROS 2 concepts (Nodes, Topics, Message, Services, Parameters)**
 * **Advanced projects (Polygon Drawer & Catch-the-Turtles game)**
 * **Launch files for automation**
+
+---
+
+## 🙌 Credits
+
+Maintained by **[Curious-Utkarsh](https://github.com/Curious-Utkarsh)**
+Inspired by real-world **edge-avoidance robotics** applications.
+
+---
